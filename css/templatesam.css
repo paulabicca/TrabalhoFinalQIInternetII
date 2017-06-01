@@ -1,0 +1,525 @@
+section 
+	{
+	width:1280px;
+	height:auto;
+	}
+
+body
+	{
+	background-color:#000;
+	}	
+	
+header 
+	{
+	
+	
+	}
+nav
+	{
+		
+	}
+
+	
+article 
+	{
+	width:56%;
+	margin-left:22%;
+	margin-top:-0.4%;
+	
+	
+	}
+		
+footer 
+	{
+	background-color:#00BFFF;
+	margin-top:25%;
+	margin-right:1%;
+	margin-left:1%;
+	}
+	
+.asidedir
+	{
+	float:right;
+	width:20%;
+	background-color:#fff;
+	margin-right:1%;
+	margin-top:-0.35%;
+	}
+
+.asideesq
+	{
+	float:left;
+	width:20%;
+	background-color:#FF0000;
+	margin-left:1%;
+	margin-top:-0.35%;
+	}
+.video1
+	{
+	width:95%;
+	height:400px;
+	margin-bottom:-50%;
+	margin-left:1.4%;
+	width:95%;
+	height:400px;	
+	}
+h5
+{
+	text-align:center;
+	font-family:tahoma;
+	font-weight:bold;
+}
+#titulo_asideesq
+{
+	text-align:center;
+	font-family:tahoma;
+	font-weight:bold;
+	font-size:100%;
+	margin-top:5%;
+}
+.sinopse_asideesq
+{
+	margin-left:2%;
+	text-align:justify;
+	margin-right:2%;
+	font-family:tahoma;
+	font-size:85%;
+	margin-bottom:13%;
+}
+.titulo_jogo_asideesq
+{
+	text-align:center;
+	font-family:tahoma;
+	font-size:85%;
+	font-weight:bold;
+}
+iframe 
+{
+	width:102%;
+        height: 70%; 
+	border: 0px;
+
+	
+ }	
+	
+.cimaesquerda
+	{
+	margin-top:-1%;
+	margin-bottom:-1.2%;
+	margin-left:1%;
+	float:left;
+
+	}
+
+.cimadireita
+	{
+	margin-top:-1%;
+	float:right;
+	margin-right:1%;
+	}
+	
+
+	
+.imgcontroles
+	{
+	width:90%;
+	margin-left:5%;
+	margin-top:7%;
+	}
+.imgface
+	{
+	margin-top:6%
+	}
+
+.imgface2
+	{
+	margin-top:1%;
+	margin-bottom:0.5%;
+	margin-left:10%;
+	}
+	
+.imgtwitter
+	{
+	margin-bottom:-1%;
+	}
+
+.imgtwitter2
+	{
+	margin-bottom:0.35%;
+	}
+	
+.imggoogle
+	{
+	margin-bottom:-2%;
+	}
+	
+.imggoogle2
+	{
+	margin-bottom:0.32%;
+	}
+
+.imgyoutube
+	{
+	margin-bottom:-1%;
+	}
+
+.imgyoutube2
+	{
+	margin-bottom:0.32%;
+	}
+
+
+.uranusgames
+	{
+	margin-top:2%;
+	margin-left:14.5%;
+	}
+
+.gameovergif
+	{
+	width:11%;
+	float:right;
+	padding-left:4%;
+	margin-right:12%;
+	margin-top:-4.4%;
+	}
+	
+.titulo
+	{
+	color:#fff;
+	font-family:tahoma;
+	font-size:200%;
+	font-weight:bold;
+	margin-left:40%;
+	margin-top:1%;
+	}
+
+.titulo2
+	{
+	font-family:tahoma;
+	font-weight:bold;
+	margin-top:7%;
+	text-align:center;
+	}
+
+.texto
+	{
+	font-family:tahoma;
+	font-size:13px;
+	margin-left:5%;
+	margin-right:5%;
+	text-align:justify;
+	margin-top:7%;
+	margin-bottom:7%;
+	}
+
+.texto2
+	{
+	background-color:#FF0000;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	padding-top:2%;
+	padding-bottom:2%;
+	color:#fff;
+	font-family:tahoma;
+	font-weight:bold;
+	text-align:center;
+	
+	}
+
+.tipoconsole
+	{
+	color:#fff;
+	padding-top:2%;
+	padding-left:5%;
+	font-family:tahoma;
+	font-weight:bold;
+	font-size:20px;
+	background-color:#00BFFF;
+	padding-right:5%;
+	text-align:justify;
+	}
+
+.data
+	{
+	color:#fff;
+	font-family:tahoma;
+	font-size:15px;
+	padding-left:5%;
+	background-color:#00BFFF;
+	padding-top:2%;
+	padding-bottom:2%;
+	}
+
+.descricaonoticia
+	{
+	background-color:#00BFFF;
+	padding-left:5%;
+	padding-right:5%;
+	text-align:justify;
+	padding-top:2%;
+	color:#fff;
+	font-family:tahoma;
+	font-size:17px;
+	padding-bottom:10%;
+	}
+
+.imagemnoticia
+	{
+	width:95%;
+	}
+
+.video1
+	{
+	width:95%;
+	height:400px;
+	}
+	
+.noticia1
+	{
+	background-color:#00BFFF;
+	padding-left:5%;
+	}
+
+.botao_donna
+	{
+	width:17.4%;
+	}
+
+.botao_charlie
+	{
+	width:17.5%;
+	}
+
+.botao_sam
+	{
+	width:17.9%;
+	}
+	
+.botao_annie
+	{
+	width:17.5%;
+	}
+
+.botao_mason
+	{
+	width:17.5%;
+	}
+	
+	
+.voltar
+	{
+	margin-top:-8%;
+	float:left;
+	margin-left:38%;
+	}
+	
+.textorodape
+	{
+	color:#fff;
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:bold;
+	float:right;
+	margin-right:35%;
+	margin-top:2%;
+	}
+
+.linknomes
+	{
+	color:#fff;
+	}
+.menu ul
+	{
+	font-family:tahoma;
+	padding:0px;
+	margin-left:35%;
+	}
+	
+.menu .menu-list, .menu .sub-menu{
+  list-style: none;
+  
+}
+
+/* Configura todos os links do nosso menu */
+.menu a{
+  color:#fff;
+  text-decoration: none;
+  display:block;
+  font-size:18px;
+  
+
+  
+}
+/* Faz os <li>s ficarem na horizontal */
+.menu > .menu-list > li{
+  float: left;
+  position: relative;
+  
+}
+/* Configura os links do menu principal */
+.menu > .menu-list > li > a {
+  padding: 10px;
+  margin: 0 9px;
+  background: #00BFFF;
+}
+/* Configura o fundo do menu principal quando com mouse hover */
+.menu > .menu-list > li:hover a {
+  background:#00BFFF;
+  border:solid #fff 1px;
+ 
+}
+/* Mostra o submenu no evento de mouse hover */
+.menu > .menu-list > li:hover > .sub-menu {
+  display: block;
+  margin-left:5%;
+  
+}
+/* Configura o estilo do submenu */
+.menu > .menu-list > li > .sub-menu {
+  position:absolute;
+  min-width:150px;
+  display: none;
+  
+  
+}
+/* Configura os links do submenu */
+.menu > .menu-list > li > .sub-menu > li > a {
+	padding: 10% 20%;
+	margin-left:-45%;
+	text-align:center;
+
+}
+
+.menu > .menu-list > li > .sub-menu > li > a:hover {
+	color:#000;
+	
+	
+}
+
+.menu:after {
+  content: '.';
+  display: block;
+  clear: both;
+}
+
+@media screen and (max-width:1024px)
+{
+	section{width:1024px;}
+	article{margin-top:-0.7%; margin-left:21.9%;}
+	.cimaesquerda{width:24%;}
+	.cimadireita{width:11%;}
+	.uranusgames{width:20%;}
+	.titulo{font-size:150%;}
+	.menu a{font-size:100%;}
+	.menu ul {margin-left:31%;}
+	.asideesq {margin-top:-0.6%;}
+	.asidedir {margin-top:-0.6%;}
+	.imgface2 {margin-left:7%;}
+	.textorodape {margin-right:29%;}
+
+}
+
+@media screen and (max-width:960px)
+{
+	section{width:960px;}
+	article{margin-top:-1%; margin-left:21.5%;}
+	footer{margin-top:40%;}
+	.cimaesquerda{width:23.5%;}
+	.uranusgames{width:19%;}
+	.titulo{font-size:140%;}
+	.menu a{font-size:90%;}
+	.menu ul{margin-left:30%;}
+	.asideesq{margin-left:0.5%; margin-top:-1%;}
+	.asidedir {margin-top:-1%;}
+	.menu > .menu-list > li > .sub-menu {min-width:120px;}
+	.titulo2{font-size:90%;}
+}
+
+@media screen and (max-width:800px) 
+{
+	section{width:800px;}
+	article{margin-top:-1.25%;}
+	footer{margin-top:70%;}
+	.cimaesquerda{}
+	.uranusgames{width:18%; margin-left:16.5%; margin-top:1%;}
+	.titulo{font-size:130%; margin-left:38%;}
+	.menu a{font-size:80%;}
+	.menu ul{margin-left:28%;}
+	.asideesq{margin-left:0.4%;}
+	.menu > .menu-list > li > .sub-menu {min-width:100px;}
+	.imgface{width:20%;}
+	.imgtwitter{width:20%;}
+	.imggoogle{width:20%; margin-top:0.5%;}
+	.imgyoutube{width:20%; margin-bottom:1%;}
+	.imgface2{width:4%;}
+	.imgtwitter2{width:4%;}
+	.imggoogle2{width:4%;}
+	.imgyoutube2{width:4%;}
+	.textorodape{font-size:60%;}
+	.voltar{width:25%;}
+	.imagemnoticia3{margin-left:10%;}
+	.imagemnoticia4{margin-left:14%;}
+	.imagemnoticia5{margin-left:10%;}
+	.imagemnoticia6{margin-left:17%;}
+}	
+
+@media screen and (max-width:768px) 
+{
+	section{width:768px;}
+	article{margin-top:-1.8%; margin-bottom:-10%;}
+	footer{margin-top:100%;}
+	.asidedir{margin-top:-1.6%;}
+	.asideesq{margin-top:-1.6%;}
+	.tipoconsole{font-size:90%}
+	.data{font-size:70%;}
+	.descricaonoticia{font-size:80%;}
+	.imagemnoticia3{width:80%;}
+	.imagemnoticia4{width:80%; margin-left:11%;}
+	.imagemnoticia5{width:80%;}
+	.imagemnoticia6{margin-left:14%;}
+}
+
+@media screen and (max-width:640px) 
+{
+	footer{margin-top:155%;}
+	section{width:640px;}
+	.menu a{font-size:60%;}
+	.titulo{font-size:100%;}
+	.uranusgames {margin-top:-0.2%;}
+	article{margin-top:-1.8%; margin-bottom:-10%;}
+	.menu ul{margin-left:24%;}
+	.textorodape{font-size:50%;}
+}
+
+@media screen and (max-width:600px) 
+{
+	article{margin-bottom:-100%;}
+	footer{margin-top:270%;}
+	section{width:600px;}
+	.menu a{font-size:50%;}
+	
+	
+}
+
+@media screen and (max-width:540px) 
+{
+	
+	article{margin-bottom:-150%;}
+	footer{margin-top:350%;}
+	section{width:540px;}
+	.textorodape{font-size:45%;}
+	.menu a{font-size:45%;}
+	.imagemnoticia6{margin-left:14%; width:70%;}
+}
+
+
+@media screen and (max-width:480px) 
+{
+	section{width:480px;}
+	footer{margin-top:410%;}
+	.textorodape{font-size:40%; margin-right:25%;}
+	.gameovergif{margin-right:10%;}
+	.menu a{font-size:5px;}
+}
